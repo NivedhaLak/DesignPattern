@@ -1,17 +1,13 @@
-package com.design.pattern.Decorator_Pattern.HelperFactory;
+package com.design.pattern.Structural.Decorator_Pattern.HelperFactory;
 
-import com.design.pattern.Decorator_Pattern.Add_on.AddonENUM;
-import com.design.pattern.Decorator_Pattern.Add_on.Milk;
-import com.design.pattern.Decorator_Pattern.Add_on.Sugar;
-import com.design.pattern.Decorator_Pattern.Beverages;
-import com.design.pattern.Decorator_Pattern.Concrete.BeverageENUM;
-import com.design.pattern.Decorator_Pattern.Concrete.DarkRoast;
-import com.design.pattern.Decorator_Pattern.Concrete.Espresso;
-import com.design.pattern.Decorator_Pattern.Concrete.HouseBlend;
+import com.design.pattern.Structural.Decorator_Pattern.Beverages;
+import com.design.pattern.Structural.Decorator_Pattern.Concrete.BeverageENUM;
+import com.design.pattern.Structural.Decorator_Pattern.Concrete.DarkRoast;
+import com.design.pattern.Structural.Decorator_Pattern.Concrete.Espresso;
+import com.design.pattern.Structural.Decorator_Pattern.Concrete.HouseBlend;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.function.Supplier;
 
 public class BeveragesFactory {

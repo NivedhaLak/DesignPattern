@@ -1,4 +1,4 @@
-package com.design.pattern.Decorator_Pattern.Concrete;
+package com.design.pattern.Structural.Decorator_Pattern.Concrete;
 
 public enum BeverageENUM {
     ESPRESSO,

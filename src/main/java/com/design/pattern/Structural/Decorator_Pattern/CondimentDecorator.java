@@ -1,4 +1,4 @@
-package com.design.pattern.Decorator_Pattern;
+package com.design.pattern.Structural.Decorator_Pattern;
 
 public abstract class CondimentDecorator implements Beverages {
     Beverages beverages;

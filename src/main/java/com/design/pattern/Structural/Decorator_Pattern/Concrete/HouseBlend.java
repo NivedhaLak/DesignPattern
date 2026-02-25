@@ -1,6 +1,6 @@
-package com.design.pattern.Decorator_Pattern.Concrete;
+package com.design.pattern.Structural.Decorator_Pattern.Concrete;
 
-import com.design.pattern.Decorator_Pattern.Beverages;
+import com.design.pattern.Structural.Decorator_Pattern.Beverages;
 
 public class HouseBlend implements Beverages {
     public HouseBlend(){}

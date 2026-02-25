@@ -1,9 +1,9 @@
-package com.design.pattern.Decorator_Pattern.HelperFactory;
+package com.design.pattern.Structural.Decorator_Pattern.HelperFactory;
 
-import com.design.pattern.Decorator_Pattern.Add_on.AddonENUM;
-import com.design.pattern.Decorator_Pattern.Add_on.Milk;
-import com.design.pattern.Decorator_Pattern.Add_on.Sugar;
-import com.design.pattern.Decorator_Pattern.Beverages;
+import com.design.pattern.Structural.Decorator_Pattern.Add_on.AddonENUM;
+import com.design.pattern.Structural.Decorator_Pattern.Add_on.Milk;
+import com.design.pattern.Structural.Decorator_Pattern.Add_on.Sugar;
+import com.design.pattern.Structural.Decorator_Pattern.Beverages;
 
 import java.util.HashMap;
 import java.util.Map;

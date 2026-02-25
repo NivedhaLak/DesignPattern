@@ -1,7 +1,7 @@
-package com.design.pattern.Decorator_Pattern.Add_on;
+package com.design.pattern.Structural.Decorator_Pattern.Add_on;
 
-import com.design.pattern.Decorator_Pattern.Beverages;
-import com.design.pattern.Decorator_Pattern.CondimentDecorator;
+import com.design.pattern.Structural.Decorator_Pattern.Beverages;
+import com.design.pattern.Structural.Decorator_Pattern.CondimentDecorator;
 
 public class Milk extends CondimentDecorator {
     Beverages beverage;

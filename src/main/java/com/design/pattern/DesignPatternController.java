@@ -1,9 +1,8 @@
 package com.design.pattern;
 
-import com.design.pattern.Decorator_Pattern.Beverages;
-import com.design.pattern.Decorator_Pattern.BeveragesVO;
-import com.design.pattern.Decorator_Pattern.Concrete.Espresso;
-import com.design.pattern.Decorator_Pattern.HelperFactory.BeveragesFactory;
+import com.design.pattern.Structural.Decorator_Pattern.Beverages;
+import com.design.pattern.Structural.Decorator_Pattern.BeveragesVO;
+import com.design.pattern.Structural.Decorator_Pattern.HelperFactory.BeveragesFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
